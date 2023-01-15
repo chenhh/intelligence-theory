@@ -15,8 +15,8 @@ description: intelligence-driven incident response
 * 1.2 事件回應作為情報的一部分
 * 1.3 什麼是情報驅動的事件回應
 * 1.4 為什麼是情報驅動的事件回應
-  * 1.4.1 SMN行動
-  * 1.4.2 極光行動
+  * 1.4.1 SMN行動 (operation some marketing name)
+  * 1.4.2 極光行動 (operation Aurora)
 * 1.5 本章小結
 
 #### 第2章 情報原則
