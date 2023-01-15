@@ -4,6 +4,8 @@ description: intelligence-driven incident response
 
 # 情報驅動應急響應
 
+[https://www.oreilly.com/library/view/untitled/9787111608004/](https://www.oreilly.com/library/view/untitled/9787111608004/)
+
 ## 目錄
 
 #### 第1章 概述
